@@ -1,0 +1,5 @@
+<resources>
+	<layout id="MainLayout">
+		<label id="id_mainlabel" text="@Strings.TapHint" x="20" y="50%" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" />
+	</layout>
+</resources>
